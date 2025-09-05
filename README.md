@@ -1,5 +1,5 @@
 <!-- Profil banner ya da gif koyabilirsin -->
-<h1 align="center">Hi 👋, I'm Yusuf (zekirovskii)</h1>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">💻 Software Engineering Student | Full-Stack Developer | Open Source Enthusiast 🚀</h3>
 
 ---
