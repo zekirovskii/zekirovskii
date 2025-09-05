@@ -35,8 +35,8 @@
 
 # 🚀 Featured Projects
 - 💰 **Money Guard** → React + Redux Toolkit + Monobank API 
-- 🎬 **TMDB SSR Movie App** → Next.js + Docker + TMDB API  
-- 🎥 **Cinemania** → JavaScript + TMDB API  
+- 🎬 **TMDB SSR Movie App** → Next.js + Docker + TMDB API ** → [Live Demo](https://tmdb-ssr.vercel.app/)  
+- 🎥 **Cinemania** → JavaScript + TMDB API ** → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
 
 
 ---
