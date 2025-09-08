@@ -34,7 +34,7 @@
 ---
 
 # 🚀 Featured Projects
-- 💰 **Money Guard** → React + Redux Toolkit + Monobank API 
+- 💰 **Money Guard** → React + Redux Toolkit + Monobank API ** → [Live Demo](https://money-guard-mqpw.vercel.app/)  
 - 🎬 **TMDB SSR Movie App** → Next.js + Docker + TMDB API ** → [Live Demo](https://tmdb-ssr.vercel.app/)  
 - 🧪 **AI Image Generator** → Next.js + Hugging Face API → [Live Demo](https://ai-image-generator-eight-rho.vercel.app/) 
 - 🎥 **Cinemania** → JavaScript + TMDB API ** → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
