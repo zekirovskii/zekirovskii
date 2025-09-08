@@ -5,8 +5,9 @@
 ---
 
 # 📊 GitHub Stats
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
+
   <img src="https://github-readme-stats.vercel.app/api?username=zekirovskii&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5N3U1bzBtYTNxdDUxajE4bWZ5MW4zOHltZjg2cXllampkYmoyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kanka5wfr3BxGpLRQu/giphy.gif" alt="Coding gif" height="200"/>
