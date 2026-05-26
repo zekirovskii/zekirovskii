@@ -43,14 +43,6 @@
 
 ---
 
-# 🚀 Featured Projects
-- 🌐 **Portfolio Website** → Node.js + React + Express.js → [Live Demo](https://www.yusufsengoz.com)  
-- 💰 **Money Guard** → React + Redux Toolkit + Monobank API → [Live Demo](https://money-guard-mqpw.vercel.app/)  
-- 🎬 **TMDB SSR Movie App** → Next.js + Docker + TMDB API → [Live Demo](https://tmdb-ssr.vercel.app/)  
-- 🎥 **Cinemania** → JavaScript + TMDB API → [Live Demo](https://nan-stop-us.github.io/cinemania/)  
-
----
-
 # 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yusuf-sengoz">
