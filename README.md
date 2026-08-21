@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 
-<h3 align="center">💻 Software Engineering Student | Full-Stack Developer 🚀</h3>
+<h3 align="center">💻 Software Engineer| Full-Stack Developer 🚀</h3>
 
 ---
 
@@ -29,13 +29,13 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/kanka5wfr3BxGpLRQu/giphy.gif"
-    alt="Coding GIF"
-    height="220"
-  />
-</p>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -55,8 +55,12 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/kanka5wfr3BxGpLRQu/giphy.gif"
+    alt="Coding GIF"
+    height="220"
+  />
+</p>
+
+
