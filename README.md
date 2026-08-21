@@ -25,7 +25,7 @@
   <tr>
     <td align="center" valign="middle">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=zekirovskii&theme=radical&hide_border=true"
+        src="https://streak-stats.demolab.com?user=zekirovskii&theme=radical&hide_border=true"
         alt="GitHub Streak Stats"
         height="220"
       />
@@ -44,6 +44,7 @@
 ---
 
 # 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yusuf-sengoz">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -61,5 +62,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/zekirovskii/zekirovskii/output/pacman-contribution-graph.svg">
 </picture>
