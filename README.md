@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
+
 <h3 align="center">💻 Software Engineering Student | Full-Stack Developer 🚀</h3>
 
 ---
@@ -21,25 +22,20 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img
-        src="https://streak-stats.demolab.com?user=zekirovskii&theme=radical&hide_border=true"
-        alt="GitHub Streak Stats"
-        height="220"
-      />
-    </td>
-    <td width="30"></td>
-    <td align="center" valign="middle">
-      <img
-        src="https://media.giphy.com/media/kanka5wfr3BxGpLRQu/giphy.gif"
-        alt="Coding GIF"
-        height="220"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=zekirovskii&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/kanka5wfr3BxGpLRQu/giphy.gif"
+    alt="Coding GIF"
+    height="220"
+  />
+</p>
 
 ---
 
